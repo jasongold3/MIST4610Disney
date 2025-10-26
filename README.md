@@ -1,6 +1,9 @@
 # MIST4610Disney
 This repository consists of my MIST 4610 Disney Database project.
 
+**Team Name:**
+Group 4
+
 **Team Members**
 Mahathi - https://github.com/mrb74060/Disney.git
 Morgan - https://github.com/morganlemmings
