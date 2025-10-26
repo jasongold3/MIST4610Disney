@@ -2,7 +2,10 @@
 This repository consists of my MIST 4610 Disney Database project.
 
 **Team Members**
-Mahathi - https://github.com/mrb74060/Disney.git
+Mahathi - 
+Morgan - Morgan
+Clark - 
+Melissa - https://github.com/melissatran0 
 
 **Problem Description:**
 
