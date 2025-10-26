@@ -28,3 +28,49 @@ People who come to Disney World are tracked through the “Customers” entity. 
 
 <img width="904" height="439" alt="image" src="https://github.com/user-attachments/assets/4900d6ba-0040-4175-9fc9-0070828789a8" />
 
+<img width="947" height="556" alt="image" src="https://github.com/user-attachments/assets/0e5c742a-34bb-4ff0-a498-e931e095fe6a" />
+
+<img width="950" height="366" alt="image" src="https://github.com/user-attachments/assets/abee5818-cf15-4def-81f2-225733a38d57" />
+
+<img width="988" height="493" alt="image" src="https://github.com/user-attachments/assets/902a4cbd-997b-4c1f-ab68-46eef9a8f157" />
+
+<img width="1014" height="612" alt="image" src="https://github.com/user-attachments/assets/41073702-a710-4cec-86a5-41d836904355" />
+
+<img width="1003" height="653" alt="image" src="https://github.com/user-attachments/assets/72c12c8b-7b81-4a9e-9c3a-0399bdf504d6" />
+
+<img width="961" height="448" alt="image" src="https://github.com/user-attachments/assets/981db225-174d-45a4-a493-7f7f75837e3e" />
+
+<img width="952" height="623" alt="image" src="https://github.com/user-attachments/assets/0b3f0d5f-246d-416f-b7f3-c4c789d8cf63" />
+
+<img width="929" height="254" alt="image" src="https://github.com/user-attachments/assets/9eb8ef74-23ff-43a4-937f-5b5d33930932" />
+
+<img width="967" height="304" alt="image" src="https://github.com/user-attachments/assets/5cb01678-6b54-4ddc-bd45-d26bcb9c48d8" />
+
+<img width="938" height="303" alt="image" src="https://github.com/user-attachments/assets/cda53e7b-66c9-4495-90c6-483554d555a6" />
+
+<img width="973" height="431" alt="image" src="https://github.com/user-attachments/assets/27cf14ca-1323-49dd-a644-459c94c54697" />
+
+<img width="970" height="600" alt="image" src="https://github.com/user-attachments/assets/b563e569-901a-4290-82a6-a65865cd8e7a" />
+
+<img width="984" height="485" alt="image" src="https://github.com/user-attachments/assets/97fd29bd-9ff0-4287-bc55-17d8059ea1de" />
+
+**Queries:**
+
+<img width="1050" height="384" alt="image" src="https://github.com/user-attachments/assets/12a92203-034d-42ad-aae9-dccbafd09554" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
